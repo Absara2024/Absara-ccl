@@ -1,4 +1,4 @@
-# https-github.com-Color-Coded-Labs-ccl_cohort8
+# Absara file
 Open the terminal
 Set your username with the command git config --global user.name "Your Name"
 Set your email address with the command git config --global user.email "you@example.com"
